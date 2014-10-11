@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel='stylesheet' ref='/stylesheets/full-width-pics.css' />
+    <link rel='stylesheet' href='/libs/bootstrap-css/css/bootstrap.css' />
+    <link rel='stylesheet' href='/libs/font-awesome/css/font-awesome.min.css' />
+  </head>
+  <body>
+    <div id = "wrapper">
+      <div class="circle"></div>
+        <center class="name"> Sucheep Sriintra </center>
+        <center class="job"> QA Team <center>
+        <center class="job"> <i class="fa fa-at"></i> <center>
+        <center class="job"> Taskworld <center>
+        <div class="icon"></div>
+        <center class="content"> Taskworld Rocks !</center>
+        <div id="footer">
+        <i class="fa fa-phone-square fa-lg"></i> +66-61-064-4315
+        <i class="fa fa-pencil-square-o fa-lg"></i> sucheep.s@taskworld.com
+        </div>
+    </div>
+  </body>
+</html>
